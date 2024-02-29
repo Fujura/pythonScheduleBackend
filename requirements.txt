@@ -1,6 +1,4 @@
 fastapi==0.109.2
-alice==0.0.1
-alice_scripts==0.2.post1
 annotated-types==0.6.0
 anyio==4.2.0
 beautifulsoup4==4.12.3
@@ -14,8 +12,6 @@ DAWG-Python==0.7.2
 docopt==0.6.2
 exceptiongroup==1.2.0
 fastapi==0.109.2
-Flask==3.0.2
-Flask-Cors==4.0.0
 h11==0.14.0
 idna==3.6
 itsdangerous==2.1.2
